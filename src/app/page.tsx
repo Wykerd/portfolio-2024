@@ -7,7 +7,7 @@ export default function Home() {
             <span>Hey there,</span> <span>{"I'm "}<em>Daniel Wykerd.</em></span>
           </h1>
           <h2 className="text-base sm:text-lg">
-            Final year Electrical and Electronic Engineering undergrad at Stellenbosch University, South Africa.
+            An engineer with a deep seated passion for all things computing. My passion drives me to constantly explore by building, and my projects are born directly from the ideas I can’t stop thinking about.
           </h2>
         </section>
         <section className="flex flex-col">
